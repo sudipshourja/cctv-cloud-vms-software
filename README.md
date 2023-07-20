@@ -49,6 +49,9 @@ We are actively working on incorporating the following features:
 ## Targeted Audience
 Our software is ideal for businesses where security is a crucial aspect of their operations, as well as remote properties and homes that require extended retention periods for playback footage.
 
+## Frequently Asked Question
+Go to this link to see [FAQs](FAQs.md)
+
 ## Contact
 **Sudip Adhikary**  
 Cloud Software Developer  
