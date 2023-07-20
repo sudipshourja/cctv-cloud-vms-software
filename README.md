@@ -33,6 +33,7 @@ We provide a more affordable option, delivering excellent value for money. With 
 
 ## Technical Architecture
 In our system, all DVRs, NVRs, and IP cameras belonging to clients will establish a secure VPN tunnel to our servers. The recorded footage will be stored in Google Cloud Storage, ensuring reliable and scalable storage capabilities. To access the footage and utilize various services, client users will interact with our web application. They will have the ability to perform tasks such as live streaming, playback, and leverage additional functionalities provided by our application.
+
 ![Technical Architecture](tech_arch.png)
 
 ## Further Development
