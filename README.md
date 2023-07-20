@@ -10,7 +10,7 @@ The Cloud Surveillance Solution enables users to securely store CCTV surveillanc
 - **Scalability and Flexibility**: Easily scale the storage capacity to accommodate growing surveillance needs.
 - **Cost-Effectiveness**: Save costs by utilizing our solution instead of investing in expensive hardware or other cloud services.
 - **Automatic Backup and Sync**: Automatically back up and synchronize surveillance footage for added peace of mind.
-- **Surveillance Device Maintenance**: Reduce the burden of maintenance for surveillance devices, as footage is stored securely in the cloud.
+- **Surveillance Device Maintenance**: Reduce the burden of maintenance for surveillance devices, as we maintain all devices added to our system.
 
 ## Comparative Analysis
 ### Traditional Solution Vs. Cloud-Based Solution
@@ -31,6 +31,10 @@ We provide a more affordable option, delivering excellent value for money. With 
 - We provide dedicated technical support to ensure a smooth user experience.
 - We continuously enhance our solution with new features and improvements.
 
+## Technical Architecture
+In our system, all DVRs, NVRs, and IP cameras belonging to clients will establish a secure VPN tunnel to our servers. The recorded footage will be stored in Google Cloud Storage, ensuring reliable and scalable storage capabilities. To access the footage and utilize various services, client users will interact with our web application. They will have the ability to perform tasks such as live streaming, playback, and leverage additional functionalities provided by our application.
+![Technical Architecture](tech_arch.png)
+
 ## Further Development
 We are actively working on incorporating the following features:
 - Enhanced UI/UX for an improved user experience.
@@ -39,9 +43,10 @@ We are actively working on incorporating the following features:
 - Analytics system powered by AI for insightful surveillance data analysis.
 - Improved cost-effectiveness for optimized resource utilization.
 - Advanced encryption system to ensure data privacy, even from GCP.
+- Newer compression technologies to minify footage size even further to reduce cost.
 
 ## Targeted Audience
-Our software is ideal for businesses where security is a critical aspect of their operations, as well as remote properties and homes that require extended retention periods for playback footage.
+Our software is ideal for businesses where security is a crucial aspect of their operations, as well as remote properties and homes that require extended retention periods for playback footage.
 
 ## Contact
 **Sudip Adhikary**  
