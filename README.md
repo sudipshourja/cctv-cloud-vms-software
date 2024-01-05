@@ -1,7 +1,20 @@
-# Cloud Surveillance Solution (Beta Version)
+# Cloud VMS Software
 
 ## Description
-The Cloud Surveillance Solution enables users to securely store CCTV surveillance footage on the Google Cloud Platform. With our web application, users can conveniently watch live stream or playback footage with extended retention periods from anywhere. Our solution offers superior cost-effectiveness compared to other alternatives for this specific use case.
+Introducing a Cloud-Based Video Management System Designed for Unparalleled Control and Cost Efficiency
+
+Empower your business with a comprehensive video surveillance solution that delivers unparalleled security, convenience, and cost savings.
+
+Our Cloud Video Management System Software seamlessly integrates with Google Cloud Storage, providing a robust platform for managing and accessing your video footage from anywhere, anytime.
+
+## Key Features:
+ - **Effortless Cloud Integration**: Optimize storage and accessibility with seamless integration to Google Cloud Storage, eliminating upfront costs and ensuring scalability on demand.
+ - **Intuitive Playback Interface**: Streamline video navigation with a user-friendly interface featuring a precise timestamp-based seeking bar, making footage retrieval effortless.
+ - **Unrestricted Remote Access**: Connect to CCTV devices across dispersed locations, even those without public IPs, through cutting-edge VPN technologies. Stream live video and manage device settings remotely for comprehensive control.
+ - **Uncompromising Data Privacy**: Safeguard sensitive footage with robust client-side encryption, guaranteeing exclusive access to your videos. Google has no visibility or access to your data.
+ - **Proactive System Maintenance**: Minimize downtime and ensure optimal performance with 24/7 automated troubleshooting features that address potential issues proactively.
+ - **Exceptional Cost-Effectiveness**: Eliminate upfront storage expenses and leverage the cost-efficiency of Google Cloud Platform, making this solution a perfect fit for businesses of all sizes.
+Experience a truly secure, accessible, and affordable surveillance solution that exceeds expectations. Contact us today to unlock the full potential of our Cloud Video Management System Software.
 
 ## Benefits
 - **Data Protection and Security**: Ensure the safety and integrity of surveillance footage with robust data protection measures.
@@ -10,41 +23,40 @@ The Cloud Surveillance Solution enables users to securely store CCTV surveillanc
 - **Scalability and Flexibility**: Easily scale the storage capacity to accommodate growing surveillance needs.
 - **Cost-Effectiveness**: Save costs by utilizing our solution instead of investing in expensive hardware or other cloud services.
 - **Automatic Backup and Sync**: Automatically back up and synchronize surveillance footage for added peace of mind.
-- **Surveillance Device Maintenance**: Reduce the burden of maintenance for surveillance devices, as we maintain all devices added to our system.
+- **Surveillance Device Maintenance**: Reduce the burden of maintenance for surveillance devices, as the system automatically maintain all devices added to our system.
 
 ## Comparative Analysis
 ### Traditional Solution Vs. Cloud-Based Solution
-- Remote streaming not possible in traditional systems.
+- Traditional systems does not offer off-site backup of footage
 - Traditional systems require purchasing and maintaining hard drives.
 - Traditional system hard drives may crash, leading to data loss.
 - Traditional systems lack protection against tampering or accidental/malicious deletion.
 
 ### Hardware Solution Vs. Cloud-Based Solution
-- Hardware solutions involve significant expenses for purchasing and maintaining servers.
+ - High upfront costs: Requires significant initial investment in hardware.
+ - Limited scalability: Physical storage capacity is restricted by hardware.
+ - On-premises management: Limited remote access and management capabilities.
+ - Manual maintenance: Requires ongoing hardware upkeep and troubleshooting.
+ - Complex disaster recovery: Requires additional backup and recovery strategies.
+ - Lengthy deployment: Hardware installation and configuration can be time-consuming.
 
-### Our Cloud-Based Solution
-We provide a more affordable option, delivering excellent value for money. With our solution, you can enjoy HD footage retention for up to 3 months for just 4.99USD.
+### Other cloud soltuions
+[This article](https://solink.com/resources/cloud-based-video-surveillance-systems/) provides a valuable overview of available cloud surveillance solutions. However, for businesses seeking the most budget-friendly option, this software stands out with its zero upfront hardware investment, scalable pay-as-you-go GCP storage, and automatic resource management. These features translate to real cost savings compared to competitor solutions.
 
-## Why Use Our Solution
-- We offer a more cost-effective alternative to traditional and other cloud-based solutions.
-- Our solution is highly customizable as we have developed the software ourselves.
-- We provide dedicated technical support to ensure a smooth user experience.
-- We continuously enhance our solution with new features and improvements.
+### Why This Cloud-Based Solution
+This software is more affordable option, delivering excellent value for money. It can store 12 FPS HD footage with retention period up to 3 months for just 2.51 USD / month.
 
 ## Technical Architecture
-In our system, all DVRs, NVRs, and IP cameras belonging to clients will establish a secure VPN tunnel to our servers. The recorded footage will be stored in Google Cloud Storage, ensuring reliable and scalable storage capabilities. To access the footage and utilize various services, client users will interact with our web application. They will have the ability to perform tasks such as live streaming, playback, and leverage additional functionalities provided by our application.
+In this software, all DVRs, NVRs, and IP cameras at remote locations will establish a secure VPN tunnel without any public IP to clients on-premis server. The recorded footage will be stored in Google Cloud Storage, with client-side encryption on your on-premis server ensuring reliable and scalable storage capabilities. To access the footage and utilize various services, client users will interact with web applications. They will have the ability to perform tasks such as live streaming, playback, and leverage additional functionalities provided by the application.
 
 ![Technical Architecture](tech_arch.png)
 
 ## Further Development
 We are actively working on incorporating the following features:
-- Enhanced UI/UX for an improved user experience.
-- Robust maintenance system to streamline operations.
+- Enhanced web application for an improved user experience.
+- Robust automatic maintenance system to streamline operations.
 - Proper CI/CD pipelining for seamless software deployment.
 - Analytics system powered by AI for insightful surveillance data analysis.
-- Improved cost-effectiveness for optimized resource utilization.
-- Advanced encryption system to ensure data privacy, even from GCP.
-- Newer compression technologies to minify footage size even further to reduce cost.
 
 ## Targeted Audience
 Our software is ideal for businesses where security is a crucial aspect of their operations, as well as remote properties and homes that require extended retention periods for playback footage.
