@@ -68,5 +68,6 @@ Go to this link to see [FAQs](FAQs.md)
 **Sudip Adhikary**  
 Streaming Software Developer  
 Hasan Lane, Dattapara, Tongi, Gazipur, Bangladesh  
-Email: sudipshourja@gmail.com, adhikary15-5582@diu.edu.bd
+Email: sudipshourja@gmail.com
+       adhikary15-5582@diu.edu.bd
 Cell: +8801775624505
