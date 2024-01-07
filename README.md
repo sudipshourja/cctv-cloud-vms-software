@@ -55,6 +55,7 @@ In this software, all DVRs, NVRs, and IP cameras at remote locations will establ
 We are actively working on incorporating the following features:
 - Enhanced web application for an improved user experience.
 - Robust automatic maintenance system to streamline operations.
+- Rigorous testing for ensuring scalability and security.
 - Proper CI/CD pipelining for seamless software deployment.
 - Analytics system powered by AI for insightful surveillance data analysis.
 
