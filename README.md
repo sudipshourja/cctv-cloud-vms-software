@@ -26,7 +26,7 @@ Experience a truly secure, accessible, and affordable surveillance solution that
 - **Surveillance Device Maintenance**: Reduce the burden of maintenance for surveillance devices, as the system automatically maintain all devices added to our system.
 
 ## Comparative Analysis
-### Traditional Solution (NVR/DVR) Vs. Cloud-Based VMS Solution
+### Traditional Solution (NVR or DVR) Vs. Cloud-Based VMS Solution
 - Traditional systems does not offer off-site backup of footage
 - Traditional systems require purchasing and maintaining hard drives.
 - Traditional system hard drives may crash, leading to data loss.
