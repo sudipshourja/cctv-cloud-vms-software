@@ -44,7 +44,7 @@ Experience a truly secure, accessible, and affordable surveillance solution that
 [This article](https://solink.com/resources/cloud-based-video-surveillance-systems/) provides a valuable overview of available cloud surveillance solutions. However, for businesses seeking the most budget-friendly option, this software stands out with its zero upfront hardware investment, scalable pay-as-you-go GCP storage, and automatic resource management. These features translate to real cost savings compared to competitor solutions.
 
 ### Why This Cloud-Based Solution
-This software is more affordable option, delivering excellent value for money. It can store 12 FPS HD footage with retention period up to 3 months for just 2.51 USD / month.
+This software is more affordable option, delivering excellent value for money. It can store 12 FPS HD footage with retention period up to 3 months for just 2.51 USD / month. With minimal motion in footage and GCP discount it can be reduced up to 50%.
 
 ## Technical Architecture
 In this software, all DVRs, NVRs, and IP cameras at remote locations will establish a secure VPN tunnel without any public IP to clients on-premis server. The recorded footage will be stored in Google Cloud Storage, with client-side encryption on your on-premis server ensuring reliable and scalable storage capabilities. To access the footage and utilize various services, client users will interact with web applications. They will have the ability to perform tasks such as live streaming, playback, and leverage additional functionalities provided by the application.
