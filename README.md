@@ -1,7 +1,7 @@
 # Cloud VMS Software
 
 ## Description
-Introducing a Cloud-Based Video Management System Designed for Unparalleled Control and Cost Efficiency
+**Introducing a Cloud-Based Video Management System Designed for Unparalleled Control and Cost Efficiency**
 
 Empower your business with a comprehensive video surveillance solution that delivers unparalleled security, convenience, and cost savings.
 
@@ -26,13 +26,13 @@ Experience a truly secure, accessible, and affordable surveillance solution that
 - **Surveillance Device Maintenance**: Reduce the burden of maintenance for surveillance devices, as the system automatically maintain all devices added to our system.
 
 ## Comparative Analysis
-### Traditional Solution Vs. Cloud-Based Solution
+### Traditional Solution Vs. Cloud-Based VMS Solution
 - Traditional systems does not offer off-site backup of footage
 - Traditional systems require purchasing and maintaining hard drives.
 - Traditional system hard drives may crash, leading to data loss.
 - Traditional systems lack protection against tampering or accidental/malicious deletion.
 
-### Hardware Solution Vs. Cloud-Based Solution
+### Hardware Solution (SAN or NAS) Vs. Cloud-Based VMS Solution
  - High upfront costs: Requires significant initial investment in hardware.
  - Limited scalability: Physical storage capacity is restricted by hardware.
  - On-premises management: Limited remote access and management capabilities.
@@ -40,7 +40,7 @@ Experience a truly secure, accessible, and affordable surveillance solution that
  - Complex disaster recovery: Requires additional backup and recovery strategies.
  - Lengthy deployment: Hardware installation and configuration can be time-consuming.
 
-### Other cloud soltuions
+### Other Cloud-Based Surveillance Solutions
 [This article](https://solink.com/resources/cloud-based-video-surveillance-systems/) provides a valuable overview of available cloud surveillance solutions. However, for businesses seeking the most budget-friendly option, this software stands out with its zero upfront hardware investment, scalable pay-as-you-go GCP storage, and automatic resource management. These features translate to real cost savings compared to competitor solutions.
 
 ### Why This Cloud-Based Solution
@@ -59,14 +59,14 @@ We are actively working on incorporating the following features:
 - Analytics system powered by AI for insightful surveillance data analysis.
 
 ## Targeted Audience
-Our software is ideal for businesses where security is a crucial aspect of their operations, as well as remote properties and homes that require extended retention periods for playback footage.
+This software is an ideal solution for businesses with a distributed operational footprint, offering seamless integration, extended retention capabilities, and efficient access to playback footage and live stream. It addresses the unique challenges of managing surveillance across multiple locations, providing a secure, accessible, and scalable solution with maximum cost effectivity for businesses with diverse operational landscapes.
 
 ## Frequently Asked Question
 Go to this link to see [FAQs](FAQs.md)
 
 ## Contact
 **Sudip Adhikary**  
-Cloud Software Developer  
+Streaming Software Developer  
 Hasan Lane, Dattapara, Tongi, Gazipur, Bangladesh  
-Email: sudipshourja@gmail.com  
+Email: sudipshourja@gmail.com, adhikary15-5582@diu.edu.bd
 Cell: +8801775624505
