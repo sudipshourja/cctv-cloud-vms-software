@@ -49,7 +49,7 @@ This software is more affordable option, delivering excellent value for money. I
 ## Technical Architecture
 In this software, all DVRs, NVRs, and IP cameras at remote locations will establish a secure VPN tunnel without any public IP to clients on-premis server. The recorded footage will be stored in Google Cloud Storage, with client-side encryption on your on-premis server ensuring reliable and scalable storage capabilities. To access the footage and utilize various services, client users will interact with web applications. They will have the ability to perform tasks such as live streaming, playback, and leverage additional functionalities provided by the application.
 
-![Technical Architecture](tech_arch.png)
+![Technical Architecture](Architecture.png)
 
 ## Further Development
 We are actively working on incorporating the following features:
