@@ -60,7 +60,16 @@ We are actively working on incorporating the following features:
 - Analytics system powered by AI for insightful surveillance data analysis.
 
 ## Targeted Audience
-This software is an ideal solution for businesses with a distributed operational footprint, offering seamless integration, extended retention capabilities, and efficient access to playback footage and live stream. It addresses the unique challenges of managing surveillance across multiple locations, providing a secure, accessible, and scalable solution with maximum cost effectivity for businesses with diverse operational landscapes.
+This software is an ideal solution for businesses with a distributed operational footprint, offering seamless integration, extended retention capabilities, and efficient access to playback footage and live streams. It caters specifically to organizations that:
+
+- **Require Off-Site Storage:** Ensuring secure storage in the cloud to mitigate the risk of physical damage or loss.
+- **Require Live Video Feed of All Cameras:** Providing real-time access to live video feeds from all connected surveillance cameras.
+- **Require Maximum Retention Period:** Offering extended retention periods to meet the unique needs of businesses that necessitate prolonged storage of surveillance footage.
+- **Require Proper Security and Maintenance of All Surveillance Devices:** Implementing robust security measures and automated maintenance systems to ensure the integrity and optimal performance of all surveillance devices.
+- **Have Multiple Remote Operation Sites:** Addressing the challenges of managing surveillance across dispersed locations by offering remote access and centralized control.
+- **Can Offer Required Internet Bandwidth Support:** Possessing the capability to provide the necessary internet bandwidth in all remote locations. This ensures smooth streaming of video footage from remote locations to the on-premise server and from the on-premise server to Google Cloud.
+
+This software is tailored to meet the specific demands of organizations seeking a secure, accessible, and scalable surveillance solution, with a focus on off-site storage, live video feeds, extended retention, device security, maintenance, and the ability to support required internet bandwidth across multiple remote operation sites.
 
 ## Frequently Asked Question
 Go to this link to see [FAQs](FAQs.md)
