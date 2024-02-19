@@ -17,13 +17,14 @@ Our Cloud Video Management System Software seamlessly integrates with Google Clo
 Experience a truly secure, accessible, and affordable surveillance solution that exceeds expectations. Contact us today to unlock the full potential of our Cloud Video Management System Software.
 
 ## Benefits
-- **Data Protection and Security**: Ensure the safety and integrity of surveillance footage with robust data protection measures.
-- **Off-Site Storage**: Store footage securely in the cloud, eliminating the risk of physical damage or loss.
 - **Accessibility and Convenience**: Access live stream or playback footage with extended retention periods from anywhere via our user-friendly web application.
+- **Cloud Platform Based Off-Site Storage**: Store footage securely in the cloud, eliminating the risk of physical damage or loss.
+- **Data Protection and Security**: Ensure the safety and integrity of surveillance footage with robust data protection measures.
 - **Scalability and Flexibility**: Easily scale the storage capacity to accommodate growing surveillance needs.
 - **Cost-Effectiveness**: Save costs by utilizing our solution instead of investing in expensive hardware or other cloud services.
-- **Automatic Backup and Sync**: Automatically back up and synchronize surveillance footage for added peace of mind.
+- **Real-time Backup and Sync**: Automatically back up and synchronize surveillance footage in real-time for added peace of mind.
 - **Surveillance Device Maintenance**: Reduce the burden of maintenance for surveillance devices, as the system automatically maintain all devices added to our system.
+- **Customizeable Freatures**: Develop various types of customizeable features according to business requiremnts.
 
 ## Comparative Analysis
 ### Traditional Solution (NVR or DVR) Vs. Cloud-Based VMS Solution
@@ -44,7 +45,7 @@ Experience a truly secure, accessible, and affordable surveillance solution that
 [This article](https://solink.com/resources/cloud-based-video-surveillance-systems/) provides a valuable overview of available cloud surveillance solutions. However, for businesses seeking the most budget-friendly option, this software stands out with its zero upfront hardware investment, scalable pay-as-you-go GCP storage, and automatic resource management. These features translate to real cost savings compared to competitor solutions.
 
 ### Why This Cloud-Based Solution
-This software is more affordable option, delivering excellent value for money. It can store 12 FPS HD footage with retention period up to 3 months for just 2.51 USD / Month and with minimal motion in footage and GCP discount it can be reduced up to 50%.
+This software is more affordable option, delivering excellent value for money. It can store 12 FPS HD footage with retention period up to 3 months for just 2.51 USD ~ 1.26 USD per month. With minimal motion in footage and GCP discount it can be reduced up to 50%.
 
 ## Technical Architecture
 In this software, all DVRs, NVRs, and IP cameras at remote locations will establish a secure VPN tunnel without any public IP to clients on-premis server. The recorded footage will be stored in Google Cloud Storage, with client-side encryption on your on-premis server ensuring reliable and scalable storage capabilities. To access the footage and utilize various services, client users will interact with web applications. They will have the ability to perform tasks such as live streaming, playback, and leverage additional functionalities provided by the application.
@@ -75,8 +76,8 @@ This software is tailored to meet the specific demands of organizations seeking 
 Go to this link to see [FAQs](FAQs.md)
 
 ## Contact
-**Sudip Adhikary**  
-Streaming Software Developer  
-Hasan Lane, Dattapara, Tongi, Gazipur, Bangladesh  
-Email: sudipshourja@gmail.com, adhikary15-5582@diu.edu.bd  
-Cell: +8801775624505
+**A2Z Techub**
+Daffodil International University
+Daffodil Smart City-DSC, Birulia. Savar, Dhaka-1216, Bangladesh
+Email: sudipshourja@gmail.com, adhikary15-5582@diu.edu.bd
+Cell: +880 1775-624505, +880 1888-524620
