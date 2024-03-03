@@ -76,8 +76,9 @@ This software is tailored to meet the specific demands of organizations seeking 
 Go to this link to see [FAQs](FAQs.md)
 
 ## Contact
-**A2Z Techub**
+**Sudip Adhikary**
+Student of CSE Department
 Daffodil International University
-Daffodil Smart City-DSC, Birulia. Savar, Dhaka-1216, Bangladesh
 Email: sudipshourja@gmail.com, adhikary15-5582@diu.edu.bd
-Cell: +880 1775-624505, +880 1888-524620
+Cell: +880 1775-624505, +880 1756-808027
+[LinkedIn Profile](https://www.linkedin.com/in/sudipshourja/)
