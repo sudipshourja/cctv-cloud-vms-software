@@ -18,7 +18,7 @@ Experience a truly secure, accessible, and affordable surveillance solution that
 
 ## Benefits
 - **Accessibility and Convenience**: Access live stream or playback footage with extended retention periods from anywhere via our user-friendly web application.
-- **Cloud Platform Based Off-Site Storage**: Store footage securely in the cloud, eliminating the risk of physical damage or loss.
+- **Off-Site Storage With Cloud Platforms**: Store footage securely in the cloud, eliminating the risk of physical damage or loss.
 - **Data Protection and Security**: Ensure the safety and integrity of surveillance footage with robust data protection measures.
 - **Scalability and Flexibility**: Easily scale the storage capacity to accommodate growing surveillance needs.
 - **Cost-Effectiveness**: Save costs by utilizing our solution instead of investing in expensive hardware or other cloud services.
@@ -58,6 +58,7 @@ We are actively working on incorporating the following features:
 - Robust automatic maintenance system to streamline operations.
 - Rigorous testing for ensuring scalability and security.
 - Proper CI/CD pipelining for seamless software deployment.
+- Integration with other cloud service provider.
 - Analytics system powered by AI for insightful surveillance data analysis.
 
 ## Targeted Audience
@@ -66,18 +67,18 @@ This software is an ideal solution for businesses with a distributed operational
 - **Require Off-Site Storage:** Ensuring secure storage in the cloud to mitigate the risk of physical damage or loss.
 - **Require Live Video Feed of All Cameras:** Providing real-time access to live video feeds from all connected surveillance cameras.
 - **Require Maximum Retention Period:** Offering extended retention periods to meet the unique needs of businesses that necessitate prolonged storage of surveillance footage.
-- **Require Proper Security and Maintenance of All Surveillance Devices:** Implementing robust security measures and automated maintenance systems to ensure the integrity and optimal performance of all surveillance devices.
+- **Require Proper Security and Maintenance System For Surveillance Devices:** Implementing robust security measures and automated maintenance systems to ensure the integrity and optimal performance of all surveillance devices.
 - **Have Multiple Remote Operation Sites:** Addressing the challenges of managing surveillance across dispersed locations by offering remote access and centralized control.
-- **Can Offer Required Internet Bandwidth Support:** Possessing the capability to provide the necessary internet bandwidth in all remote locations. This ensures smooth streaming of video footage from remote locations to the on-premise server and from the on-premise server to Google Cloud.
+- **Can Offer Required Internet Bandwidth Support:** Possessing the capability to provide the necessary internet bandwidth in all remote locations. This ensures smooth streaming of video footage from remote locations to the on-premise server and from the on-premise server to the cloud service provider.
 
-This software is tailored to meet the specific demands of organizations seeking a secure, accessible, and scalable surveillance solution, with a focus on off-site storage, live video feeds, extended retention, device security, maintenance, and the ability to support required internet bandwidth across multiple remote operation sites.
+This software is tailored to meet the specific demands of organizations seeking a secure, accessible, and scalable surveillance solution, with a focus on off-site storage, extended retention, live video feeds, device security, maintenance, and the ability to support required internet bandwidth across multiple remote operation sites.
 
 ## Frequently Asked Question
 Go to this link to see [FAQs](FAQs.md)
 
 ## Contact
 **Sudip Adhikary**
-Student of CSE Department
+Student of CSE Department 
 Daffodil International University
 Email: sudipshourja@gmail.com, adhikary15-5582@diu.edu.bd
 Cell: +880 1775-624505, +880 1756-808027
