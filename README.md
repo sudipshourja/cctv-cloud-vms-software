@@ -52,6 +52,9 @@ In this software, all DVRs, NVRs, and IP cameras at remote locations will establ
 
 ![Technical Architecture](architecture.png)
 
+## Project Demo
+This is the link of the project demo here: [Project Demo Video Link](https://youtu.be/HL8bNlGKlUA)
+
 ## Further Development
 We are actively working on incorporating the following features:
 - Enhanced web application for an improved user experience.
